@@ -1,0 +1,20 @@
+.miMargen {
+    margin-top: 120px;
+}
+
+.alive {
+    color: lightseagreen
+}
+
+.dead {
+    color: tomato;
+}
+
+.unknown {
+    color: gold;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
